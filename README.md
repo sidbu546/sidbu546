@@ -27,7 +27,7 @@ I build AI systems end to end — from data pipeline to model to a usable interf
 
 ### 🚀 Featured Projects
 
-**🏛️ [Star — Massachusetts Housing-Law RAG Assistant](https://github.com/sidbu546/star)**
+**🏛️ [Star — Massachusetts Housing-Law RAG Assistant](https://drive.google.com/file/d/1kOj8MgZDE6rFcwoAMAfMWP6nqNHCgZFT/view?usp=sharing)**
 A two-source retrieval-augmented generation assistant for MA housing law. Scrapes and normalizes 100+ legal sections into dual ChromaDB vector stores with metadata-backed citations. Retrieval uses MMR selection, cross-encoder reranking, score thresholding, and context compression, with role-aware prompting (tenant/landlord/general). Deployed across Gradio, Streamlit, and Chainlit.
 `Python` · `LangChain` · `ChromaDB` · `OpenAI` · `RAG`
 
@@ -35,11 +35,11 @@ A two-source retrieval-augmented generation assistant for MA housing law. Scrape
 A lightweight framework fusing frozen CLIP RGB embeddings with edge-based structural features for circuit-diagram recognition (32 classes, 1,078-image LITE benchmark). Built a Grad-CAM and attention-rollout interpretability pipeline with custom Structure- and Junction-Activation-Ratio metrics showing fusion redirects attention toward connectivity regions.
 `PyTorch` · `CLIP` · `Computer Vision` · `Grad-CAM`
 
-**📊 RAG vs. Long-Context with Decision Framework** &nbsp;—&nbsp; *Submitted to IEEE SIEDS*
+**📊 [RAG vs. Long-Context with Decision Framework](https://github.com/sidbu546/rag-vs-filefirst-comparative-framework)** &nbsp;—&nbsp; *Submitted to IEEE SIEDS*
 Comparative research on RAG vs. long-context LLM architectures using Llama 3 and Qwen 2.5, studying inference throughput, KV-cache utilization, and compute-cost trade-offs for enterprise-scale corpora.
 `LLMs` · `Llama 3` · `Qwen 2.5` · `RAG`
 
-**🔍 Multimodal 2-D Spatial Reasoning**
+**🔍 [Multimodal 2-D Spatial Reasoning](https://drive.google.com/file/d/1EWQPMziAUD2SKTWs3o88NyniigfSkxfx/view?usp=sharing)**
 Benchmarked 5 vision-language models across 6 spatial-reasoning datasets (VSR, CV-Bench, SpatialMQA, Spatial-MM, SAT, MME-RealWorld-Lite) via a unified evaluation pipeline. Applied Grad-CAM, attention entropy, peak saliency, and CKA to link performance with visual grounding.
 `Python` · `PyTorch` · `Hugging Face` · `Computer Vision`
 
