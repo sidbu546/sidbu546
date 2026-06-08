@@ -51,12 +51,4 @@ ANN, kNN, and RFR models optimizing graphene production outcomes from experiment
 
 ---
 
-### 📈 GitHub Stats
-
-![Siddhanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidbu546&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidbu546&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 *Open to connecting on applied-AI, LLM systems, and ML research.*
