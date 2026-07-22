@@ -2,7 +2,7 @@
 
 **MS in Artificial Intelligence @ Boston University** &nbsp;•&nbsp; Focused on **LLMs, RAG, and Computer Vision**
 
-I build AI systems end to end — from data pipeline to model to a usable interface — and I care as much about *why* a model behaves the way it does as about its accuracy. Currently seeking **full-time AI/ML Engineer roles starting Jan 2027**.
+I build AI systems end to end — from data pipeline to model to a usable interface — and I care as much about *why* a model behaves the way it does as about its accuracy. 
 
  📧 siddhank@bu.edu &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/siddhanth-kalyanaraman)
 
