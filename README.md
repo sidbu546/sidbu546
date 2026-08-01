@@ -35,7 +35,7 @@ A two-source retrieval-augmented generation assistant for MA housing law. Scrape
 A lightweight framework fusing frozen CLIP RGB embeddings with edge-based structural features for circuit-diagram recognition (32 classes, 1,078-image LITE benchmark). Built a Grad-CAM and attention-rollout interpretability pipeline with custom Structure- and Junction-Activation-Ratio metrics showing fusion redirects attention toward connectivity regions.
 `PyTorch` · `CLIP` · `Computer Vision` · `Grad-CAM`
 
-**📊 [RAG vs. Long-Context with Decision Framework](https://github.com/sidbu546/rag-vs-filefirst-comparative-framework)** &nbsp;—&nbsp; *Presented at IEEE SIEDS*
+**📊 [RAG vs. Long-Context with Decision Framework](https://github.com/sidbu546/rag-vs-filefirst-comparative-framework)** &nbsp;—&nbsp; *Presented at IEEE SIEDS(Published)*
 Comparative research on RAG vs. long-context LLM architectures using Llama 3 and Qwen 2.5, studying inference throughput, KV-cache utilization, and compute-cost trade-offs for enterprise-scale corpora.
 `LLMs` · `Llama 3` · `Qwen 2.5` · `RAG`
 
