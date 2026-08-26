@@ -21,7 +21,7 @@ I build AI systems end to end — from data pipeline to model to a usable interf
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Areas:** Large Language Models · Retrieval-Augmented Generation · Transformers · NLP · Computer Vision · Vector Databases · Model Interpretability
+**Areas:** Large Language Models · Retrieval-Augmented Generation · Transformers · NLP · Computer Vision · Vector Databases · Model Interpretability, Model Context Protocols
 
 ---
 
